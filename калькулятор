@@ -2,10 +2,7 @@
 #include <locale.h>
 
 int main(void) 
-{
-
-
-    
+{  
   double a=0, b=0;
   char s; 
   scanf("%lf%lf %c", &a, &b, &s);
